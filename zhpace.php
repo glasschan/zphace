@@ -4,8 +4,8 @@
  * Plugin URI: https://github.com/glasschan/zphace
  * Description: 智能偵測並自動為中英文間添加空格，優化網站排版視覺體驗。支援動態內容處理、高效能輕量級設計、可自定義配置，適用於文章內容、標題、評論及各類動態生成的文本。
  * Version: 1.1.3
- * Requires at least: 6.7
- * Requires PHP: 8.1
+ * Requires at least: 4.0
+ * Requires PHP: 7.0
  * Author: SEAFOODHOLDHAND 史佛浩恒
  * Author URI: https://seafoodholdhand.com
  * License: GPLv3
@@ -22,7 +22,7 @@ if (!defined('ABSPATH')) {
 }
 
 // 定義常量避免重複計算
-define('ZHPACE_VERSION', '1.1.2');
+define('ZHPACE_VERSION', '1.1.3');
 define('ZHPACE_PATH', plugin_dir_path(__FILE__));
 define('ZHPACE_URL', plugin_dir_url(__FILE__));
 define('ZHPACE_JS_PATH', ZHPACE_PATH . 'js/zhpace.min.js');

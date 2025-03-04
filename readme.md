@@ -5,8 +5,8 @@ ZHpace 是一個輕量級、高效的 WordPress 插件，能自動為中英文�
 **貢獻者：** SEAFOODHOLDHAND 史佛浩恒  
 **原始靈感：** [pangu.js](https://github.com/vinta/pangu.js) by vinta  
 **標籤：** 中文，文本，格式化，排版，間距，標點，自動排版  
-**要求 WordPress 版本：** 6.7 或更高  
-**要求 PHP 版本：** 8.1 或更高  
+**要求 WordPress 版本：** 4.0 或更高  
+**要求 PHP 版本：** 7.0 或更高
 **穩定標籤：** 1.1.3
 **許可證：** GPLv3 或更高版本  
 **許可證 URI:** https://www.gnu.org/licenses/gpl-3.0.html  
