@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: ZHpace - 中英文排版自動優化工具
+ * Plugin Name: ZHpace - 請各位大哥大姐為中英排版加空格
  * Plugin URI: https://github.com/glasschan/zphace
  * Description: 智能偵測並自動為中英文間添加空格，優化網站排版視覺體驗。支援動態內容處理、高效能輕量級設計、可自定義配置，適用於文章內容、標題、評論及各類動態生成的文本。
  * Version: 1.1.3

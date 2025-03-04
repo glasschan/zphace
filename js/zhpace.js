@@ -1,5 +1,5 @@
 /**
- * ZHpace - Chinese-English Text Spacing Utility
+ * ZHpace - 請各位大哥大姐為中英排版加空格
  * @version 1.1.3
  * @license MIT
  */
