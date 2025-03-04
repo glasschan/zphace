@@ -79,7 +79,6 @@ add_filter('zhpace_disable', function() {
     return false;
 });
 ```
-
 ### 是否可以調整處理的頻率？
 
 是的，可以使用 `zhpace_throttle` 過濾器調整節流值：
@@ -89,6 +88,9 @@ add_filter('zhpace_throttle', function() {
     return 100; // 設置為 100 毫秒
 });
 ```
+### 這個 Plugin 是用什麼寫的？
+
+本人（玻璃陳）因為完全不懂編程，所以是全 AI 寫的！🤣 正常應該不會有問題，除非他出現問題。🤫
 
 ## 致謝
 
