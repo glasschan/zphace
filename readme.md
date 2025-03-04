@@ -100,6 +100,7 @@ add_filter('zhpace_throttle', function() {
 
 ### 1.1.3
 * 更新為使用 `zhpace.min.js`
+* Fix: 英文連結不會空格
 
 ### 1.1.2
 * 優化 JavaScript 性能和內存使用
