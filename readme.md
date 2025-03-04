@@ -7,6 +7,7 @@ ZHpace 是一個輕量級、高效的 WordPress 插件，能自動為中英文�
 **標籤：** 中文，文本，格式化，排版，間距，標點，自動排版  
 **要求 WordPress 版本：** 4.0 或更高  
 **要求 PHP 版本：** 7.0 或更高
+
 **穩定標籤：** 1.1.3
 **許可證：** GPLv3 或更高版本  
 **許可證 URI:** https://www.gnu.org/licenses/gpl-3.0.html  
@@ -92,7 +93,7 @@ add_filter('zhpace_throttle', function() {
 
 ## 致謝
 
-特別感謝 [vinta](https://github.com/vinta) 開發的 [pangu.js](https://github.com/vinta/pangu.js) 項目，ZHpace 的核心理念受到該項目的啟發。
+特別感謝 [vinta](https://github.com/vinta) 開發的 [pangu.js](https://github.com/vinta/pangu.js) 項目，ZHpace 的核心理念受到該項目的啟發（即大部份照抄的 😂）。
 
 ## 更新日誌
 
