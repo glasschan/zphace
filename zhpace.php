@@ -25,7 +25,7 @@ if (!defined('ABSPATH')) {
 define('ZHPACE_VERSION', '1.1.2');
 define('ZHPACE_PATH', plugin_dir_path(__FILE__));
 define('ZHPACE_URL', plugin_dir_url(__FILE__));
-define('ZHPACE_JS_PATH', ZHPACE_PATH . 'zhpace.js');
+define('ZHPACE_JS_PATH', ZHPACE_PATH . 'js/zhpace.js');
 define('ZHPACE_DEBUG', defined('WP_DEBUG') && WP_DEBUG);
 
 /**
@@ -49,7 +49,7 @@ add_action('wp_enqueue_scripts', function (): void {
         // 註冊並加載 JavaScript
         wp_enqueue_script(
             'zhpace',
-            ZHPACE_URL . 'zhpace.js',
+            ZHPACE_URL . 'js/zhpace.min.js',
             [],  // 無依賴
             $version,
             [
